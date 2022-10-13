@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif ;
+}
+
+nav {
+  text-align: right;
+  height: 50px;
+  background-image: url("https://cdn.pixabay.com/photo/2015/08/24/20/13/welcome-905562_960_720.png");
+  background-repeat: no-repeat;
+  background-size: 40px 50px;
+  background-position: left;
+}
+
+header {
+  background-color: ;
+  background-image: url("https://cdn.pixabay.com/photo/2013/05/12/09/36/globe-110775_960_720.jpg");
+  background-repeat: no-repeat;
+  background-size: 50%;
+  background-position: ;
+  height: 700px;
+  width: 100%;
+}
